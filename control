@@ -1,0 +1,9 @@
+Package: com.iframe.ist
+Name: IST
+Version: 0.1.1
+Architecture: iphoneos-arm
+Description: Iframe Standard Time
+Maintainer: iframe
+Author: iframe
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
